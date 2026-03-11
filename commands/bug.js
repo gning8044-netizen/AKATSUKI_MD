@@ -16,11 +16,11 @@ async function bug(message, client, texts, num) {
 
                         title: "Join Our WhatsApp Channel",
 
-                        body: " Digix Crew ",
+                        body: " 𝐀𝐊𝐀𝐓𝐒𝐔𝐊𝐈_𝐌𝐃🥀 ",
 
                         mediaType: 1, // Image preview
 
-                        thumbnailUrl: `https://whatsapp.com/channel/0029VbBT7FdLCoX1TDyQQb1B`,
+                        thumbnailUrl: `https://whatsapp.com/channel/0029Vb6tDtJIN9ighY2YZK1t`,
 
                         renderLargerThumbnail: false,
 
